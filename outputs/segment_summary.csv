@@ -1,0 +1,5 @@
+Segment,Customers,Avg_Age,Avg_Income_k,Recency_Days,Frequency,Avg_Order_Value,Discount_Pct,Online_Pct,Total_Revenue,Customer_Share_%,Revenue_Share_%
+Champions (High Value),213,37.6,95.2,15.0,26.0,120.7,10.2,70.2,666043.2,17.8,58.9
+Loyal Regulars,331,42.2,65.9,41.8,14.1,68.6,25.3,54.3,318566.6,27.6,28.2
+Deal Seekers,308,26.0,36.4,70.3,8.0,35.0,58.2,78.7,86165.9,25.7,7.6
+At-Risk / Lapsed,348,46.8,49.5,221.9,3.1,55.4,29.6,38.8,59864.3,29.0,5.3
